@@ -18,6 +18,6 @@ Some games I made involving the java swing libraries
 
 -3 lives, a life a lost if the player fails to bounce the ball
 
--Once all lives are lost or you have score the max, score is shown and option to reset game is provided as a button
+-Once all lives are lost or you have scored the max, score is shown and option to reset game is provided as a button
 
 ![](README/Breakout.png)
