@@ -8,8 +8,9 @@ Some games I made involving the java swing libraries
 
 -Score is kept on bottom right and left for each player respectively
 
--Runs forever (program does not pause nor reset unless you quit and start again) 
+-Runs forever (program neither pauses nor resets unless you quit and start again) 
 
+![](README/Pong.png)
 ## Breakout
 -"A" and "D" key to move player 
 
@@ -18,3 +19,5 @@ Some games I made involving the java swing libraries
 -3 lives, a life a lost if the player fails to bounce the ball
 
 -Once all lives are lost or you have score the max, score is shown and option to reset game is provided as a button
+
+![](README/Breakout.png)
